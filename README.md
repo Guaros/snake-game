@@ -6,7 +6,5 @@ It was an introduction to programming.</p>
 
 <h2>🛠️ Technologies</h2>
 <ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript</li>
+<li>Java</li>
 </ul>
